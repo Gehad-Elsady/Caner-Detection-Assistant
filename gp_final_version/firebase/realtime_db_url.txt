@@ -1,0 +1,1 @@
+https://cancerdetection-8f9e0-default-rtdb.firebaseio.com/
